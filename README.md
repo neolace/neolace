@@ -25,4 +25,11 @@
 
 </br>
 
-<iframe src='https://codealike.com/Profile/FactsWidget/weak-9618931361' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' width='600px' height='370px'></iframe>
+<h3 align="center">Leetcode</h3>
+<div align="center">
+  <a href="https://codealike.com/Profile/FactsWidget/weak-9618931361">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://codealike.com/Profile/FactsWidget/weak-9618931361" />
+</picture>
+
+
