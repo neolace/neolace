@@ -14,22 +14,24 @@
 
 </br>
 
-<h3 align="center">Leetcode</h3>
+<h3 align="center">leetcode</h3>
 <div align="center">
   <a href="https://leetcode.com/u/u31317/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/u31317?theme=radical&font=Basic&ext=heatmap" />
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/u31317?theme=light&font=Basic&ext=heatmap" />
-  <img alt="leetcode-graph" src="leetcode.svg" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/u31317?theme=radical&font=Basic&ext=heatmap" />
+    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/u31317?theme=light&font=Basic&ext=heatmap" />
+    <img alt="leetcode-graph" src="leetcode.svg" />
+  </picture>
+</div>
+    
 </br>
 
-<h3 align="center">Leetcode</h3>
+<h3 align="center">codealike</h3>
 <div align="center">
-  <a href="https://codealike.com/Profile/FactsWidget/weak-9618931361">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://codealike.com/Profile/FactsWidget/weak-9618931361" />
-</picture>
+  <a href="https://codealike.com/Profile/FactsWidget/weak-9618931361"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://codealike.com/Profile/FactsWidget/weak-9618931361" />
+  </picture>
+</div>
 
 
