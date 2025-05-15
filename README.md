@@ -18,8 +18,8 @@
 <div align="center">
   <a href="https://leetcode.com/u/l4t3nc1/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/u31317?theme=radical&font=Basic&ext=heatmap" />
-    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/u31317?theme=light&font=Basic&ext=heatmap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/l4t3nc1?theme=radical&font=Basic&ext=heatmap" />
+    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/l4t3nc1?theme=light&font=Basic&ext=heatmap" />
     <img alt="leetcode-graph" src="leetcode.svg" />
   </picture>
 </div>
