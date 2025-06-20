@@ -1,3 +1,19 @@
+
+## Senior Software Consultant / DevSecOps Engineer
+
+Top Skills/Technologies
+Python, Java, JavaScript, .NET (C#), React, Next.js
+Cloud: GCP, Azure, AWS
+DevSecOps: Terraform, Kubernetes, Docker, CI/CD
+Cybersecurity: IAM encryption, secure system design
+Linux, WordPress
+Favorite Projects
+Python Integration Service: Real-time mobile delivery and fleet system integration with error logging and middleware for security (No public repo).
+Subscription Management System: Led backend and frontend development for scalable subscription tools (No public repo).
+Fleet Information System: Designed and deployed scalable services for improved performance (No public repo).
+
+## Technical Skills
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -12,7 +28,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-</br>
+### Bio/Tagline
+**Building secure, scalable solutions with a passion for cybersecurity and innovation.**
+
+### Fun Facts/Interests
+-  Hobby: Exploring blockchain (BTC, Ethereum, Solana).
+-  Favorite Tool: VS Code for coding efficiency.
+-  Fun Fact: Geek for tech communities and sharing insights!
 
 <h3 align="center">leetcode</h3>
 <div align="center">
