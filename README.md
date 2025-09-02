@@ -1,16 +1,15 @@
 
-## Senior Software Consultant / DevSecOps Engineer
+## Senior Application Security Engineer
 
 Top Skills/Technologies
 Python, Java, JavaScript, .NET (C#), React, Next.js
 Cloud: GCP, Azure, AWS
 DevSecOps: Terraform, Kubernetes, Docker, CI/CD
 Cybersecurity: IAM encryption, secure system design
-Linux, WordPress
-Favorite Projects
-Python Integration Service: Real-time mobile delivery and fleet system integration with error logging and middleware for security (No public repo).
-Subscription Management System: Led backend and frontend development for scalable subscription tools (No public repo).
-Fleet Information System: Designed and deployed scalable services for improved performance (No public repo).
+Linux
+Python Integration Service: Real-time mobile delivery and fleet system integration with error logging and middleware for security.
+Subscription Management System: Led backend and frontend development for scalable subscription tools.
+Fleet Information System: Designed and deployed scalable services for improved performance.
 
 ## Technical Skills
 
