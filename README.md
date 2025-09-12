@@ -1,4 +1,3 @@
-
 ## Senior Application Security Engineer
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -34,5 +33,3 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://codealike.com/Profile/FactsWidget/l4t3nc1" />
   </picture>
 </div>
-
-
