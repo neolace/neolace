@@ -11,12 +11,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-### Social
 
-<p align="left">
-<a href="https://linkedin.com/in/seckin-yasar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="seckin-yasar/" height="32" width="32" /></a>
 
-</p>
 
 <h3 align="center">leetcode</h3>
 <div align="center">
