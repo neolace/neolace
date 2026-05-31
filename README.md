@@ -11,15 +11,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
-<h3 align="center">leetcode</h3>
-<div align="center">
-  <a href="https://leetcode.com/u/l4t3nc1/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/l4t3nc1?theme=radical&font=Basic&ext=heatmap" />
-    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/l4t3nc1?theme=light&font=Basic&ext=heatmap" />
-    <img alt="leetcode-graph" src="leetcode.svg" />
-  </picture>
-</div>
