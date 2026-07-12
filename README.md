@@ -13,5 +13,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 [![wakatime](https://wakatime.com/badge/user/d0587efc-20a7-4f13-916a-ca01fa8b0ab7.svg)](https://wakatime.com/@d0587efc-20a7-4f13-916a-ca01fa8b0ab7)
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tertius%20Geldenhuys-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tertiusg)
 [![Codewars](https://www.codewars.com/users/l4t3nc1/badges/large)](https://www.codewars.com/users/l4t3nc1)
