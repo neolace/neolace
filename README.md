@@ -11,5 +11,5 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
+[![wakatime](https://wakatime.com/badge/user/d0587efc-20a7-4f13-916a-ca01fa8b0ab7.svg)](https://wakatime.com/@d0587efc-20a7-4f13-916a-ca01fa8b0ab7)
 [![Codewars](https://www.codewars.com/users/l4t3nc1/badges/large)](https://www.codewars.com/users/l4t3nc1)
