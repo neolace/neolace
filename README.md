@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0f172a,100:22c55e&text=TERTIUS%20GELDENHUYS&fontColor=f8fafc&fontSize=42&fontAlignY=38&desc=APPLICATION%20SECURITY%20%E2%80%A2%20CLOUD%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Tertius Geldenhuys profile banner" />
