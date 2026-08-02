@@ -101,7 +101,7 @@ A collection of tools and automation for application security testing, secure co
 </td>
 <td width="50%" valign="top">
 
-### ☁️ AWS Secure Platform
+### AWS Secure Platform
 
 Cloud infrastructure patterns built around security, observability, encryption and repeatable deployments.
 
@@ -138,7 +138,7 @@ A modern full-stack platform using TypeScript, Nuxt, Fastify, PostgreSQL, Redis 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Cybersecurity Learning Platform
+### Cybersecurity Learning Platform
 
 Practical cybersecurity material designed to help learners progress from fundamentals to advanced hands-on security work.
 
@@ -259,8 +259,6 @@ and the decisions engineers make every day.
 ```text
 SECURE THE CODE • AUTOMATE THE CLOUD • ENGINEER FOR RESILIENCE
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,55:0f172a,100:020617" width="100%" alt="Footer" />
 
 </div>
 ```
