@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0f172a,100:22c55e&text=TERTIUS%20GELDENHUYS&fontColor=f8fafc&fontSize=42&fontAlignY=38&desc=APPLICATION%20SECURITY%20%E2%80%A2%20CLOUD%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Tertius Geldenhuys profile banner" />
-
 <a href="https://github.com/neolace">
   <img src="https://img.shields.io/github/followers/neolace?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=22c55e&labelColor=0f172a" alt="GitHub followers" />
 </a>
 <a href="https://www.linkedin.com/in/tertiusg">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-22c55e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-22c55e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00f172a" alt="LinkedIn" />
 </a>
 <a href="https://x.com/l4t3nc0">
   <img src="https://img.shields.io/badge/X-Follow-22c55e?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" alt="X" />
@@ -34,12 +32,11 @@ I work at the intersection of **software engineering**, **application security**
 
 My focus is turning security from a final checkpoint into a native part of how software is designed, built, deployed and operated.
 
-* 🔐 Application security and secure software architecture
-* ☁️ AWS cloud engineering and infrastructure automation
-* 🧪 Security testing, threat modelling and DevSecOps
-* ⚙️ TypeScript, Python and backend platform development
-* 🧠 Cybersecurity education and community development
-* 🛡️ Certified Ethical Hacker
+* Application security and secure software architecture
+* AWS cloud engineering and infrastructure automation
+* Security testing, threat modelling and DevSecOps
+* TypeScript, Python and backend platform development
+* Cybersecurity education and community development
 
 <br />
 
@@ -88,7 +85,7 @@ My focus is turning security from a final checkpoint into a native part of how s
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Security Engineering Toolkit
+### Security Engineering Toolkit
 
 A collection of tools and automation for application security testing, secure code analysis and vulnerability management.
 
@@ -124,7 +121,7 @@ Cloud infrastructure patterns built around security, observability, encryption a
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Cloud-Native Application
+### Cloud-Native Application
 
 A modern full-stack platform using TypeScript, Nuxt, Fastify, PostgreSQL, Redis and containerized infrastructure.
 
