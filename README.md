@@ -1,90 +1,270 @@
-<!--
-  GitHub Profile README
-  Repository: https://github.com/neolace/neolace
--->
-
+````md
 <div align="center">
 
-<img
-  width="100%"
-  alt="Tertius Geldenhuys profile banner"
-  src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:020806,45:07140b,100:17350e&text=TERTIUS%20GELDENHUYS&fontColor=7CFF00&fontSize=42&fontAlignY=34&desc=Senior%20Application%20Security%20Engineer%20%7C%20Securing%20applications.%20Building%20resilient%20systems.&descAlignY=59&descSize=16&animation=fadeIn"
-/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0f172a,100:22c55e&text=TERTIUS%20GELDENHUYS&fontColor=f8fafc&fontSize=42&fontAlignY=38&desc=APPLICATION%20SECURITY%20%E2%80%A2%20CLOUD%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Tertius Geldenhuys profile banner" />
 
 <a href="https://github.com/neolace">
-  <img
-    src="https://img.shields.io/badge/GitHub-neolace-07110B?style=for-the-badge&logo=github&logoColor=7CFF00"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/github/followers/neolace?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=22c55e&labelColor=0f172a" alt="GitHub followers" />
 </a>
-
 <a href="https://www.linkedin.com/in/tertiusg">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Tertius%20Geldenhuys-07110B?style=for-the-badge&logo=linkedin&logoColor=7CFF00"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-22c55e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" />
 </a>
-
-<a href="https://ovotron.one">
-  <img
-    src="https://img.shields.io/badge/Website-Ovotron-07110B?style=for-the-badge&logo=googlechrome&logoColor=7CFF00"
-    alt="Website"
-  />
+<a href="https://x.com/l4t3nc0">
+  <img src="https://img.shields.io/badge/X-Follow-22c55e?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" alt="X" />
 </a>
-
-<br><br>
-
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,cs,angular,nodejs,postgres,aws,docker,python&theme=dark&perline=11"
-  alt="Technology stack"
-/>
-
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=neolace&style=for-the-badge&color=7CFF00&label=PROFILE+VIEWS"
-  alt="Profile views"
-/>
-
-<img
-  src="https://img.shields.io/github/followers/neolace?style=for-the-badge&color=7CFF00&labelColor=07110B&logo=github&logoColor=7CFF00"
-  alt="GitHub followers"
-/>
-
-<img
-  src="https://img.shields.io/github/stars/neolace?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7CFF00&labelColor=07110B&logo=github&logoColor=7CFF00"
-  alt="GitHub stars"
-/>
+<a href="https://l4t3nc1.wordpress.com">
+  <img src="https://img.shields.io/badge/Website-Visit-22c55e?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0f172a" alt="Website" />
+</a>
 
 </div>
 
----
+<br />
+
+```text
+┌─[neolace@github]─[~/profile]
+└──╼ whoami
+
+Senior Application Security Engineer
+Software engineer building secure cloud-native systems,
+developer tooling and resilient application platforms.
+````
+
+## `> About`
+
+I work at the intersection of **software engineering**, **application security** and **cloud architecture**.
+
+My focus is turning security from a final checkpoint into a native part of how software is designed, built, deployed and operated.
+
+* 🔐 Application security and secure software architecture
+* ☁️ AWS cloud engineering and infrastructure automation
+* 🧪 Security testing, threat modelling and DevSecOps
+* ⚙️ TypeScript, Python and backend platform development
+* 🧠 Cybersecurity education and community development
+* 🛡️ Certified Ethical Hacker
+
+<br />
+
+## `> Core Systems`
+
+<div align="center">
+
+| Application Security |    Cloud Engineering   | Software Development |      DevSecOps      |
+| :------------------: | :--------------------: | :------------------: | :-----------------: |
+|   Threat modelling   |    AWS architecture    |      TypeScript      |    CI/CD security   |
+|  Secure code review  |   Serverless systems   |        Python        |    SAST and DAST    |
+|     OWASP testing    | Infrastructure as Code |        Node.js       | Dependency security |
+|     API security     |       Containers       |    Backend systems   | Security automation |
+
+</div>
+
+<br />
+
+## `> Technology Stack`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,bash,powershell&theme=dark" alt="Languages" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,tailwind,vite&theme=dark" alt="Frontend technologies" />
+
+### Backend and Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,prisma,docker&theme=dark" alt="Backend technologies" />
+
+### Cloud and Engineering
+
+<img src="https://skillicons.dev/icons?i=aws,github,githubactions,linux,terraform,nginx&theme=dark" alt="Cloud technologies" />
+
+</div>
+
+<br />
+
+## `> Featured Projects`
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-### Application Security
+### 🔐 Security Engineering Toolkit
 
-I design and secure resilient applications across modern cloud and
-web environments.
+A collection of tools and automation for application security testing, secure code analysis and vulnerability management.
 
-- Application security engineering
-- Secure software architecture
-- Threat modelling and security reviews
-- AWS cloud security
-- DevSecOps and security automation
-- Full-stack software engineering
+**Focus**
+
+* Secure development workflows
+* Security testing automation
+* Actionable vulnerability reporting
+* Developer-first security tooling
+
+[View repository](https://github.com/neolace)
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-### Current focus
+### ☁️ AWS Secure Platform
+
+Cloud infrastructure patterns built around security, observability, encryption and repeatable deployments.
+
+**Focus**
+
+* AWS CDK architecture
+* Secure VPC design
+* Centralized logging
+* KMS encryption
+* Automated deployments
+
+[View repository](https://github.com/neolace)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Cloud-Native Application
+
+A modern full-stack platform using TypeScript, Nuxt, Fastify, PostgreSQL, Redis and containerized infrastructure.
+
+**Stack**
+
+* Nuxt 4
+* Fastify 5
+* PostgreSQL
+* Redis
+* Docker Compose
+
+[View repository](https://github.com/neolace)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Cybersecurity Learning Platform
+
+Practical cybersecurity material designed to help learners progress from fundamentals to advanced hands-on security work.
+
+**Topics**
+
+* Web application security
+* Offensive security fundamentals
+* Cloud security
+* Secure development
+* Practical workshops
+
+[View repository](https://github.com/neolace)
+
+</td>
+</tr>
+</table>
+
+> Replace the four repository links above with your strongest individual project URLs.
+
+<br />
+
+## `> Current Operations`
+
+```yaml
+role:
+  primary: Senior Application Security Engineer
+  secondary: Software Development Engineer
+
+currently_building:
+  - Secure cloud-native applications
+  - AWS infrastructure automation
+  - Application security tooling
+  - Cybersecurity learning resources
+
+currently_exploring:
+  - Security-focused developer experience
+  - Automated cloud governance
+  - Software supply-chain security
+  - AI-assisted security engineering
+
+principles:
+  - Build security into the architecture
+  - Automate repeatable controls
+  - Prefer evidence over assumptions
+  - Make secure choices easy for developers
+```
+
+<br />
+
+## `> GitHub Intelligence`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=neolace&show_icons=true&hide_border=true&bg_color=020617&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&ring_color=22c55e" alt="GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neolace&layout=compact&hide_border=true&bg_color=020617&title_color=22c55e&text_color=cbd5e1" alt="Most used languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neolace&hide_border=true&background=020617&stroke=1e293b&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=cbd5e1&currStreakNum=f8fafc&sideNums=f8fafc&dates=64748b" alt="GitHub contribution streak" />
+
+</div>
+
+<br />
+
+## `> Contribution Activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neolace&bg_color=020617&color=cbd5e1&line=22c55e&point=f8fafc&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+<br />
+
+## `> Engineering Philosophy`
 
 ```text
-Secure by design
-Automate relentlessly
-Measure continuously
-Build resilient systems
+Security should not live at the end of the pipeline.
+
+It should exist in the architecture,
+the source code,
+the deployment process,
+the infrastructure
+and the decisions engineers make every day.
+```
+
+<br />
+
+## `> Connect`
+
+<div align="center">
+
+<a href="https://github.com/neolace">
+  <img src="https://img.shields.io/badge/GitHub-neolace-020617?style=for-the-badge&logo=github&logoColor=22c55e" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/tertiusg">
+  <img src="https://img.shields.io/badge/LinkedIn-tertiusg-020617?style=for-the-badge&logo=linkedin&logoColor=22c55e" alt="LinkedIn" />
+</a>
+<a href="https://x.com/l4t3nc0">
+  <img src="https://img.shields.io/badge/X-l4t3nc0-020617?style=for-the-badge&logo=x&logoColor=22c55e" alt="X" />
+</a>
+<a href="https://bsky.app/profile/l4t3nc1.bsky.social">
+  <img src="https://img.shields.io/badge/Bluesky-l4t3nc1-020617?style=for-the-badge&logo=bluesky&logoColor=22c55e" alt="Bluesky" />
+</a>
+<a href="https://l4t3nc1.wordpress.com">
+  <img src="https://img.shields.io/badge/Blog-l4t3nc1-020617?style=for-the-badge&logo=wordpress&logoColor=22c55e" alt="Blog" />
+</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=neolace&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br /><br />
+
+```text
+SECURE THE CODE • AUTOMATE THE CLOUD • ENGINEER FOR RESILIENCE
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,55:0f172a,100:020617" width="100%" alt="Footer" />
+
+</div>
+```
