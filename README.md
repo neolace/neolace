@@ -1,4 +1,3 @@
-<div align="center">
 
 <a href="https://github.com/neolace">
   <img src="https://img.shields.io/github/followers/neolace?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=22c55e&labelColor=0f172a" alt="GitHub followers" />
@@ -6,14 +5,6 @@
 <a href="https://www.linkedin.com/in/tertiusg">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-22c55e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00f172a" alt="LinkedIn" />
 </a>
-<a href="https://x.com/l4t3nc0">
-  <img src="https://img.shields.io/badge/X-Follow-22c55e?style=for-the-badge&logo=x&logoColor=white&labelColor=0f172a" alt="X" />
-</a>
-<a href="https://l4t3nc1.wordpress.com">
-  <img src="https://img.shields.io/badge/Website-Visit-22c55e?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0f172a" alt="Website" />
-</a>
-
-</div>
 
 <br />
 
@@ -42,22 +33,16 @@ My focus is turning security from a final checkpoint into a native part of how s
 
 ## `> Core Systems`
 
-<div align="center">
-
-| Application Security |    Cloud Engineering   | Software Development |      DevSecOps      |
+| Application Security |   Cloud Engineering    | Software Development |      DevSecOps      |
 | :------------------: | :--------------------: | :------------------: | :-----------------: |
-|   Threat modelling   |    AWS architecture    |      TypeScript      |    CI/CD security   |
+|   Threat modelling   |    AWS architecture    |      TypeScript      |   CI/CD security    |
 |  Secure code review  |   Serverless systems   |        Python        |    SAST and DAST    |
-|     OWASP testing    | Infrastructure as Code |        Node.js       | Dependency security |
-|     API security     |       Containers       |    Backend systems   | Security automation |
-
-</div>
+|    OWASP testing     | Infrastructure as Code |       Node.js        | Dependency security |
+|     API security     |       Containers       |   Backend systems    | Security automation |
 
 <br />
 
 ## `> Technology Stack`
-
-<div align="center">
 
 ### Languages
 
@@ -74,8 +59,6 @@ My focus is turning security from a final checkpoint into a native part of how s
 ### Cloud and Engineering
 
 <img src="https://skillicons.dev/icons?i=aws,github,githubactions,linux,terraform,nginx&theme=dark" alt="Cloud technologies" />
-
-</div>
 
 <br />
 
@@ -188,31 +171,13 @@ principles:
 
 <br />
 
-## `> GitHub Intelligence`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=neolace&show_icons=true&hide_border=true&bg_color=020617&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&ring_color=22c55e" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neolace&layout=compact&hide_border=true&bg_color=020617&title_color=22c55e&text_color=cbd5e1" alt="Most used languages" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=neolace&hide_border=true&background=020617&stroke=1e293b&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=cbd5e1&currStreakNum=f8fafc&sideNums=f8fafc&dates=64748b" alt="GitHub contribution streak" />
-
-</div>
 
 <br />
 
 ## `> Contribution Activity`
 
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neolace&bg_color=020617&color=cbd5e1&line=22c55e&point=f8fafc&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-
-</div>
 
 <br />
 
@@ -232,32 +197,14 @@ and the decisions engineers make every day.
 
 ## `> Connect`
 
-<div align="center">
-
-<a href="https://github.com/neolace">
-  <img src="https://img.shields.io/badge/GitHub-neolace-020617?style=for-the-badge&logo=github&logoColor=22c55e" alt="GitHub" />
-</a>
 <a href="https://www.linkedin.com/in/tertiusg">
   <img src="https://img.shields.io/badge/LinkedIn-tertiusg-020617?style=for-the-badge&logo=linkedin&logoColor=22c55e" alt="LinkedIn" />
 </a>
-<a href="https://x.com/l4t3nc0">
-  <img src="https://img.shields.io/badge/X-l4t3nc0-020617?style=for-the-badge&logo=x&logoColor=22c55e" alt="X" />
-</a>
-<a href="https://bsky.app/profile/l4t3nc1.bsky.social">
-  <img src="https://img.shields.io/badge/Bluesky-l4t3nc1-020617?style=for-the-badge&logo=bluesky&logoColor=22c55e" alt="Bluesky" />
-</a>
-<a href="https://l4t3nc1.wordpress.com">
-  <img src="https://img.shields.io/badge/Blog-l4t3nc1-020617?style=for-the-badge&logo=wordpress&logoColor=22c55e" alt="Blog" />
-</a>
-
-<br /><br />
-
 <img src="https://komarev.com/ghpvc/?username=neolace&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" alt="Profile views" />
 
-<br /><br />
+<br />
 
 ```text
 SECURE THE CODE • AUTOMATE THE CLOUD • ENGINEER FOR RESILIENCE
 ```
 
-</div>
